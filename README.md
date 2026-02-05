@@ -1,5 +1,25 @@
 # 💫 About Me:
-Hi, I’m Kartik Baruah<br><br>I’m a passionate coder from India 💡 who loves turning ideas into production-ready code.<br><br>🚀 I’m currently expert in<br><br>Advanced Next.js & React patterns<br><br>Backend APIs & system design<br><br>Building scalable full-stack applications<br><br>👯 I’m looking to collaborate on<br><br>Developer tools & SaaS products<br><br>Projects that solve real-world problems with clean, maintainable code<br><br>💬 Ask me about<br><br>Building products from idea → deployment<br><br>Debugging classic “it works on my machine” bugs 😅<br><br>⚡ Fun facts about me<br><br>I care more about clean UI than dark mode 😄<br><br>I write code at night and refactor it in the morning<br><br>I can spend hours fixing 1px alignment issues (yes, really)
+Hi, I’m Kartik Baruah<br><br>
+I’m a passionate coder from India 💡 who loves turning ideas into production-ready code.<br><br>
+
+🚀 **I’m currently expert in**<br><br>
+Advanced Next.js & React patterns<br><br>
+Backend APIs & system design<br><br>
+Building scalable full-stack applications<br><br>
+
+👯 **I’m looking to collaborate on**<br><br>
+Developer tools & SaaS products<br><br>
+Projects that solve real-world problems with clean, maintainable code<br><br>
+
+💬 **Ask me about**<br><br>
+Building products from idea → deployment<br><br>
+Debugging “it works on my machine” bugs 😅<br><br>
+
+⚡ **Fun facts about me**<br><br>
+I care more about clean UI than dark mode 😄<br><br>
+I write code at night and refactor it in the morning<br><br>
+I can spend hours fixing 1px alignment issues (yes, really)
+
 
 
 ## 🌐 Socials:
