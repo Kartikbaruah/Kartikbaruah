@@ -5,7 +5,7 @@ I’m a passionate coder from India 💡 who loves turning ideas into production
 🚀 **I’m currently expert in**<br><br>
 Advanced Next.js & React patterns<br><br>
 Backend APIs & system design<br><br>
-Building scalable full-stack web applications<br><br>
+Building scalable full-stack applications<br><br>
 
 👯 **I’m looking to collaborate on**<br><br>
 Developer tools & SaaS products<br><br>
